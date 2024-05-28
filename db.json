@@ -2,9 +2,9 @@
   "videos": [
     {
       "id": 1,
-      "titulo": "O labirinto do Logcat",
-      "capa": "https://i.ytimg.com/vi/ZUni0cMtozI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLB_D4rgQxZVNwt5bADf8sxZ7zTA",
-      "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+      "titulo": "React JS // Dicionário do Programador",
+      "capa": "https://i.ytimg.com/vi/NhUr8cwDiiM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCt5Xqk5fYxf9q0l-zFK81MHZvcGQ",
+      "link": "https://www.youtube.com/watch?v=NhUr8cwDiiM"
     },
     {
       "id": 2,
